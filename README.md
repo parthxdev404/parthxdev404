@@ -1,5 +1,5 @@
 # Hey There 💫
-<img src = "<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/ee53bca5-3507-49c8-8f10-ea2919f2f13d" />
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/ee53bca5-3507-49c8-8f10-ea2919f2f13d" />
 I'm currently working on MERN STACK<br>I'm looking to collaborate on Real world Full Stack & Saas Projects<br>I'm currently learning Data Structures and Algorithms<br>Fun Fact : I create content tooo<br>
 
 
