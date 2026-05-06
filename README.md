@@ -1,5 +1,5 @@
-# 💫 About Me:
-MERN STACK<br>Real world Full Stack & Saas Projects<br>-<br>Data Structures and Algorithms<br>Mern Stack and Web Designing <br>I create content tooo<br>
+# Hey There 💫:
+I'm currently working on MERN STACK<br>I'm looking to collaborate on Real world Full Stack & Saas Projects<br>I'm currently learning Data Structures and Algorithms<br>Fun Fact : I create content tooo<br>
 
 
 ## 🌐 Socials:
